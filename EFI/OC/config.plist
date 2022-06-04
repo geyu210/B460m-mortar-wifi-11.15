@@ -594,7 +594,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>HideSelf</key>
@@ -758,7 +758,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02939404GUKGQG1M</string>
+			<string>C02939108QXKGQGJA</string>
 			<key>ROM</key>
 			<data>QBZ+q32I</data>
 			<key>SpoofVendor</key>
@@ -766,9 +766,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZGYZMJWDW</string>
+			<string>C02ZG09WJWDW</string>
 			<key>SystemUUID</key>
-			<string>98623FE1-46C2-4CC3-99E2-AAC31A85484F</string>
+			<string>C726820A-D0B1-4251-99FF-DCBC594C455E</string>
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MaxBIOSVersion</key>
@@ -787,7 +787,7 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f//f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02939404GUKGQG1M</string>
+			<string>C02939108QXKGQGJA</string>
 			<key>ROM</key>
 			<data>QBZ+q32I</data>
 		</dict>
