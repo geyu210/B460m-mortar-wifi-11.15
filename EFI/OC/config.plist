@@ -758,17 +758,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02719500QXH69F8C</string>
+			<string>C02508104J9G2Y7JC</string>
 			<key>ROM</key>
 			<data>QBZ+q32I</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TP8YNH7JY</string>
+			<string>C02P9RZKFY10</string>
 			<key>SystemUUID</key>
-			<string>45AB786B-5584-4CEF-959A-9455F0C46E21</string>
+			<string>BFC85221-AFBD-4CB6-A3C2-5813C2E7FEAD</string>
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MaxBIOSVersion</key>
@@ -781,13 +781,13 @@
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-4B682C642B45593E</string>
+			<string>Mac-42FD25EABCABB274</string>
 			<key>FirmwareFeatures</key>
-			<data>duEP/AAAAAA=</data>
+			<data>d+EP+AAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02719500QXH69F8C</string>
+			<string>C02508104J9G2Y7JC</string>
 			<key>ROM</key>
 			<data>QBZ+q32I</data>
 		</dict>
